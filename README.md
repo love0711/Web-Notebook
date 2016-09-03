@@ -2,7 +2,7 @@
 
 Using Command Line Import MYSQL
 
-```mysql
+```command line
 mysql -u username -p database_name < file.sql
 ```
 Vim Check Bomb
