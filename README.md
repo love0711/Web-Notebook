@@ -1,6 +1,6 @@
 # Web-Notebook
 
-Using Command Line Create Table
+Using Command Line Import MYSQL
 
 ```mysql
 mysql -u username -p database_name < file.sql
